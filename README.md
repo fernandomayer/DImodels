@@ -1,0 +1,2 @@
+# DImodels
+The DImodels package
